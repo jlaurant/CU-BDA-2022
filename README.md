@@ -1,5 +1,7 @@
 # CU-BDA-2022
-## This is Jessie's working repo for the course
+## Hello, this is Jessie
+* I'm a first year PhD student from the Nolan School of Hotel Administration.
+
 
 
 make the change in the editor
