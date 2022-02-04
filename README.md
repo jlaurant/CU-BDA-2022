@@ -5,7 +5,7 @@
 * Currently I am interested in 
 	* hotel online review analysis through Natural Language Processing techniques, such as summarization and sentiment analysis
 	* price optimization in travel subscription products. This topic might be more closely related to the topic of this class.
-* The hotel review data looks like this: !(/images/review_screenshot.png)
+* The hotel review data looks like this: ![this is an image](/images/review_screenshot.png)
 
 make the change in the editor
 $ git status
