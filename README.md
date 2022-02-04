@@ -7,7 +7,3 @@
 	* price optimization in travel subscription products. This topic might be more closely related to the topic of this class.
 * The hotel review data looks like this: ![this is an image](/images/review_screenshot.png)
 
-make the change in the editor
-$ git status
-$ git add <file name>
-$ git commit -m "must be double quote here
